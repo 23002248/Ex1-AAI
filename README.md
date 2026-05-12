@@ -1,7 +1,7 @@
 <H3>Name: STEPHEN RAJ Y</H3>
 <H3>Register No: 212223230217</H3>
 <H3>Experiment: 1</H3>
-<H3>Date:</H3>
+<H3>Date:12.05.2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim:
